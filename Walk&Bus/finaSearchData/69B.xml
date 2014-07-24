@@ -1,0 +1,5185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2013-07-04T08:20:00" ModificationDateTime="2013-05-29T13:55:00" Modification="new" RevisionNumber="0" FileName="NE_410_PB1954_69B.xml" SchemaVersion="2.1" xmlns="http://www.transxchange.org.uk/">
+  <ServicedOrganisations>
+    <ServicedOrganisation>
+      <OrganisationCode>1000</OrganisationCode>
+      <Name>Northumberland</Name>
+    </ServicedOrganisation>
+    <ServicedOrganisation>
+      <OrganisationCode>1001</OrganisationCode>
+      <Name>ScottishBorders</Name>
+    </ServicedOrganisation>
+    <ServicedOrganisation>
+      <OrganisationCode>0000</OrganisationCode>
+      <Name>School*Holidays</Name>
+      <Holidays>
+        <DateRange>
+          <StartDate>2012-12-22</StartDate>
+          <EndDate>2013-01-06</EndDate>
+        </DateRange>
+        <DateRange>
+          <StartDate>2013-02-16</StartDate>
+          <EndDate>2013-02-24</EndDate>
+        </DateRange>
+        <DateRange>
+          <StartDate>2013-03-29</StartDate>
+          <EndDate>2013-04-14</EndDate>
+        </DateRange>
+        <DateRange>
+          <StartDate>2013-05-06</StartDate>
+          <EndDate>2013-05-06</EndDate>
+        </DateRange>
+        <DateRange>
+          <StartDate>2013-05-25</StartDate>
+          <EndDate>2013-06-02</EndDate>
+        </DateRange>
+        <DateRange>
+          <StartDate>2013-07-20</StartDate>
+          <EndDate>2013-09-01</EndDate>
+        </DateRange>
+      </Holidays>
+    </ServicedOrganisation>
+  </ServicedOrganisations>
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012021</StopPointRef>
+      <CommonName>Crawcrook E</CommonName>
+      <LocalityName>Crawcrook</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012022</StopPointRef>
+      <CommonName>Main Street E</CommonName>
+      <LocalityName>Crawcrook</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012023</StopPointRef>
+      <CommonName>Main Road Barmoor Terrace NE/bd</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012024</StopPointRef>
+      <CommonName>Main Road Barmoor Lane</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012025</StopPointRef>
+      <CommonName>Main Road Blackhouse Lane</CommonName>
+      <LocalityName>Barley Mow</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013015</StopPointRef>
+      <CommonName>Main Road E/b</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013016</StopPointRef>
+      <CommonName>Main Road E</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013017</StopPointRef>
+      <CommonName>Stella Bank</CommonName>
+      <LocalityName>Crookhill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013018</StopPointRef>
+      <CommonName>Stella Road E</CommonName>
+      <LocalityName>Crookhill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013019</StopPointRef>
+      <CommonName>Stella Bank Hedgefield Tce</CommonName>
+      <LocalityName>Crookhill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013020</StopPointRef>
+      <CommonName>Stella Road Hedgefield Avenue E</CommonName>
+      <LocalityName>Stella</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013021</StopPointRef>
+      <CommonName>Stella Road Stella Street</CommonName>
+      <LocalityName>Stella</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013022</StopPointRef>
+      <CommonName>Stella Road Stella Hall Dr</CommonName>
+      <LocalityName>Stella</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013023</StopPointRef>
+      <CommonName>Stella Road W (13023)</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>4100013BLAAS</StopPointRef>
+      <CommonName>Bus Station-Std A</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013087</StopPointRef>
+      <CommonName>Blaydon Bank S/b (13087)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013088</StopPointRef>
+      <CommonName>Blaydon Bank S/b (13088)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013089</StopPointRef>
+      <CommonName>Blaydon Bank S/b (13089)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>4100013WINBS</StopPointRef>
+      <CommonName>Bus Station-Std B</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013120</StopPointRef>
+      <CommonName>Tyne Street E (13120)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013069</StopPointRef>
+      <CommonName>Hawthorn Road</CommonName>
+      <LocalityName>Bleach Green</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013070</StopPointRef>
+      <CommonName>Bleach Green E</CommonName>
+      <LocalityName>Bleach Green</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013071</StopPointRef>
+      <CommonName>Park Terrace</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013072</StopPointRef>
+      <CommonName>Hazel Terrace</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013042</StopPointRef>
+      <CommonName>Shibdon Road S</CommonName>
+      <LocalityName>Axwell Park</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013043</StopPointRef>
+      <CommonName>Shibdon Road E</CommonName>
+      <LocalityName>Axwell Park</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013044</StopPointRef>
+      <CommonName>Shibdon Road Sw</CommonName>
+      <LocalityName>Axwell Park</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014059</StopPointRef>
+      <CommonName>Swallwell Hexham Road E/b</CommonName>
+      <LocalityName>Swalwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014198</StopPointRef>
+      <CommonName>Swalwell Bank</CommonName>
+      <LocalityName>Bill Quay</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014199</StopPointRef>
+      <CommonName>Swalwell Bank S</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014034</StopPointRef>
+      <CommonName>Front Street 14034</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014035</StopPointRef>
+      <CommonName>Front Street 14035</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014036</StopPointRef>
+      <CommonName>Front Street E/b</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014037</StopPointRef>
+      <CommonName>Front Street 14037</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014038</StopPointRef>
+      <CommonName>Whickham Highway</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014039</StopPointRef>
+      <CommonName>Dunston Hill Hospital E (14039)</CommonName>
+      <LocalityName>Dunston</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014040</StopPointRef>
+      <CommonName>Whickham Highway Se</CommonName>
+      <LocalityName>Dunston</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014041</StopPointRef>
+      <CommonName>Whickham Highway Sw (14041)</CommonName>
+      <LocalityName>Dunston</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014042</StopPointRef>
+      <CommonName>Whickham Highway</CommonName>
+      <LocalityName>Lobley Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014043</StopPointRef>
+      <CommonName>Lobley Hill Road E/b</CommonName>
+      <LocalityName>Lobley Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014044</StopPointRef>
+      <CommonName>Lobley Hill Road</CommonName>
+      <LocalityName>Lobley Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014014</StopPointRef>
+      <CommonName>Team Valley North End N/B</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014015</StopPointRef>
+      <CommonName>Lobley Hill Road Victoria Rd E/B</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014201</StopPointRef>
+      <CommonName>Saltwell Road Whitehall Road</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014202</StopPointRef>
+      <CommonName>Saltwell Road Kelvin Grove</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014203</StopPointRef>
+      <CommonName>Saltwell Road Barry Street</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015063</StopPointRef>
+      <CommonName>Saltwell Park S (15063)</CommonName>
+      <LocalityName>Saltwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015064</StopPointRef>
+      <CommonName>Saltwell Road South S</CommonName>
+      <LocalityName>Saltwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015065</StopPointRef>
+      <CommonName>Saltwell Road East Park Road S</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015306</StopPointRef>
+      <CommonName>Belle Vue Bank E</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015307</StopPointRef>
+      <CommonName>Belle Vue Bank E/b</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022031</StopPointRef>
+      <CommonName>Durham Road S (22031)</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022103</StopPointRef>
+      <CommonName>Beacon Lough Road</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022104</StopPointRef>
+      <CommonName>Beacon Lough E</CommonName>
+      <LocalityName>Beacon Lough</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022105</StopPointRef>
+      <CommonName>Beacon Lough Road E</CommonName>
+      <LocalityName>Beacon Lough</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015030</StopPointRef>
+      <CommonName>Old Durham Road N/b N (15030)</CommonName>
+      <LocalityName>Sheriff Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015031</StopPointRef>
+      <CommonName>QE Hosp-Old Durham Rd N</CommonName>
+      <LocalityName>Sheriff Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015201</StopPointRef>
+      <CommonName>QE Hosp-QE Avenue (15201)</CommonName>
+      <LocalityName>Sheriff Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015196</StopPointRef>
+      <CommonName>QE Hosp-QE Avneue (15196)</CommonName>
+      <LocalityName>Sheriff Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015028</StopPointRef>
+      <CommonName>Old Durham Road S/b</CommonName>
+      <LocalityName>Sheriff Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022106</StopPointRef>
+      <CommonName>Beacon Lough Road W</CommonName>
+      <LocalityName>Beacon Lough</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022107</StopPointRef>
+      <CommonName>Beacon Lough Road Sw</CommonName>
+      <LocalityName>Beacon Lough</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022108</StopPointRef>
+      <CommonName>Beacon Lough W</CommonName>
+      <LocalityName>Beacon Lough</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022092</StopPointRef>
+      <CommonName>Kells Lane S (22092)</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000022058</StopPointRef>
+      <CommonName>Durham Road N/b 22058</CommonName>
+      <LocalityName>Harlow Green</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015009</StopPointRef>
+      <CommonName>Durham Road N (15009)</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015010</StopPointRef>
+      <CommonName>Durham Road N/b</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015304</StopPointRef>
+      <CommonName>Belle Vue Bank W/b</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015305</StopPointRef>
+      <CommonName>Belle Vue Bank W</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015070</StopPointRef>
+      <CommonName>Saltwell Road East Park Road N</CommonName>
+      <LocalityName>Low Fell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015071</StopPointRef>
+      <CommonName>Saltwell Road South N</CommonName>
+      <LocalityName>Saltwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015072</StopPointRef>
+      <CommonName>Saltwell Park N (15072)</CommonName>
+      <LocalityName>Saltwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000015238</StopPointRef>
+      <CommonName>Saltwell Road</CommonName>
+      <LocalityName>Saltwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014204</StopPointRef>
+      <CommonName>Saltwell Road Brunel Street</CommonName>
+      <LocalityName>Saltwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014205</StopPointRef>
+      <CommonName>Saltwell Road Stephenson St</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014004</StopPointRef>
+      <CommonName>Racecourse Estate Sw</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014200</StopPointRef>
+      <CommonName>Lobley Hill Road Victoria Rd W/B</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014005</StopPointRef>
+      <CommonName>Lobley Hill Road S</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014006</StopPointRef>
+      <CommonName>Team Valley North End S/B</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014019</StopPointRef>
+      <CommonName>Lobley Hill Road W</CommonName>
+      <LocalityName>Bensham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014020</StopPointRef>
+      <CommonName>Lobley Hill Road W/b</CommonName>
+      <LocalityName>Lobley Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014021</StopPointRef>
+      <CommonName>Lobley Hill Road 14021</CommonName>
+      <LocalityName>Lobley Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014022</StopPointRef>
+      <CommonName>Knightside Gardens Ne</CommonName>
+      <LocalityName>Lobley Hill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014023</StopPointRef>
+      <CommonName>Whickham Highway Ne</CommonName>
+      <LocalityName>Dunston</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014024</StopPointRef>
+      <CommonName>Dunston Hill Hospital E (14024)</CommonName>
+      <LocalityName>Dunston</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014025</StopPointRef>
+      <CommonName>Whickham Highway Sw (14025)</CommonName>
+      <LocalityName>Deckham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014026</StopPointRef>
+      <CommonName>Front Street 14026</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014028</StopPointRef>
+      <CommonName>Front Street W/b</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014029</StopPointRef>
+      <CommonName>Front Street 14029</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014196</StopPointRef>
+      <CommonName>Swalwell Bank N</CommonName>
+      <LocalityName>Whickham</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000014197</StopPointRef>
+      <CommonName>Swalwell Bank</CommonName>
+      <LocalityName>Swalwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013036</StopPointRef>
+      <CommonName>Hexham Road N/b</CommonName>
+      <LocalityName>Swalwell</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013037</StopPointRef>
+      <CommonName>Shibdon Road N</CommonName>
+      <LocalityName>Axwell Park</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013038</StopPointRef>
+      <CommonName>Shibdon Road W</CommonName>
+      <LocalityName>Axwell Park</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013039</StopPointRef>
+      <CommonName>Shibdon Road N</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013058</StopPointRef>
+      <CommonName>Hazel Road</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013059</StopPointRef>
+      <CommonName>Lime Street</CommonName>
+      <LocalityName>Bleach Green</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013060</StopPointRef>
+      <CommonName>Bleach Green W</CommonName>
+      <LocalityName>Bleach Green</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013121</StopPointRef>
+      <CommonName>Tyne Street E (13121)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013122</StopPointRef>
+      <CommonName>Litchfield Terrace</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>4100013WINAS</StopPointRef>
+      <CommonName>Bus Station-Std A</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013091</StopPointRef>
+      <CommonName>Blaydon Bank N/b (13091)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013092</StopPointRef>
+      <CommonName>Blaydon Bank N/b (13092)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013093</StopPointRef>
+      <CommonName>Blaydon Bank N/b (13093)</CommonName>
+      <LocalityName>Winlaton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013902</StopPointRef>
+      <CommonName>Blaydon Bank</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>4100013BLABS</StopPointRef>
+      <CommonName>Bus Station-Std B</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013006</StopPointRef>
+      <CommonName>Stella Road W (13006)</CommonName>
+      <LocalityName>Blaydon</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013007</StopPointRef>
+      <CommonName>Stella Road Stella Hall Drive</CommonName>
+      <LocalityName>Stella</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013008</StopPointRef>
+      <CommonName>Stella Road Tempest Street</CommonName>
+      <LocalityName>Stella</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013009</StopPointRef>
+      <CommonName>Stella Road Hedgefield Avenue W</CommonName>
+      <LocalityName>Stella</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013010</StopPointRef>
+      <CommonName>Stella Road Hedgefield Tce</CommonName>
+      <LocalityName>Crookhill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013011</StopPointRef>
+      <CommonName>Stella Road W</CommonName>
+      <LocalityName>Crookhill</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013012</StopPointRef>
+      <CommonName>Main Road W</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013013</StopPointRef>
+      <CommonName>Ryton W (13013)</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000013014</StopPointRef>
+      <CommonName>Ryton W (13014)</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012001</StopPointRef>
+      <CommonName>Main Road Woodside Road</CommonName>
+      <LocalityName>Barley Mow</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012002</StopPointRef>
+      <CommonName>Ryton Schools</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012003</StopPointRef>
+      <CommonName>Main Road Barmoor Terrace SW/bd</CommonName>
+      <LocalityName>Ryton</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012004</StopPointRef>
+      <CommonName>Main Street Meadow Lane</CommonName>
+      <LocalityName>Barley Mow</LocalityName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>410000012005</StopPointRef>
+      <CommonName>Crawcrook Sw</CommonName>
+      <LocalityName>Crawcrook</LocalityName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="RS_0">
+      <RouteLink id="RL_0_0">
+        <From>
+          <StopPointRef>410000012021</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012022</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_1">
+        <From>
+          <StopPointRef>410000012022</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012023</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_2">
+        <From>
+          <StopPointRef>410000012023</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012024</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_3">
+        <From>
+          <StopPointRef>410000012024</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012025</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_4">
+        <From>
+          <StopPointRef>410000012025</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013015</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_5">
+        <From>
+          <StopPointRef>410000013015</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013016</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_6">
+        <From>
+          <StopPointRef>410000013016</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013017</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_7">
+        <From>
+          <StopPointRef>410000013017</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013018</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_8">
+        <From>
+          <StopPointRef>410000013018</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013019</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_9">
+        <From>
+          <StopPointRef>410000013019</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013020</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_10">
+        <From>
+          <StopPointRef>410000013020</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013021</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_11">
+        <From>
+          <StopPointRef>410000013021</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013022</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_12">
+        <From>
+          <StopPointRef>410000013022</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013023</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_13">
+        <From>
+          <StopPointRef>410000013023</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>4100013BLAAS</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_14">
+        <From>
+          <StopPointRef>4100013BLAAS</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013087</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_15">
+        <From>
+          <StopPointRef>410000013087</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013088</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_16">
+        <From>
+          <StopPointRef>410000013088</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013089</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_17">
+        <From>
+          <StopPointRef>410000013089</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>4100013WINBS</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_18">
+        <From>
+          <StopPointRef>4100013WINBS</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013120</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_19">
+        <From>
+          <StopPointRef>410000013120</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013069</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_20">
+        <From>
+          <StopPointRef>410000013069</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013070</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_21">
+        <From>
+          <StopPointRef>410000013070</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013071</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_22">
+        <From>
+          <StopPointRef>410000013071</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013072</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_23">
+        <From>
+          <StopPointRef>410000013072</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013042</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_24">
+        <From>
+          <StopPointRef>410000013042</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013043</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_25">
+        <From>
+          <StopPointRef>410000013043</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013044</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_26">
+        <From>
+          <StopPointRef>410000013044</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014059</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_27">
+        <From>
+          <StopPointRef>410000014059</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014198</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_28">
+        <From>
+          <StopPointRef>410000014198</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014199</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_29">
+        <From>
+          <StopPointRef>410000014199</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014034</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_30">
+        <From>
+          <StopPointRef>410000014034</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014035</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_31">
+        <From>
+          <StopPointRef>410000014035</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014036</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_32">
+        <From>
+          <StopPointRef>410000014036</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014037</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_33">
+        <From>
+          <StopPointRef>410000014037</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014038</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_34">
+        <From>
+          <StopPointRef>410000014038</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014039</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_35">
+        <From>
+          <StopPointRef>410000014039</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014040</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_36">
+        <From>
+          <StopPointRef>410000014040</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014041</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_37">
+        <From>
+          <StopPointRef>410000014041</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014042</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_38">
+        <From>
+          <StopPointRef>410000014042</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014043</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_39">
+        <From>
+          <StopPointRef>410000014043</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014044</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_40">
+        <From>
+          <StopPointRef>410000014044</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014014</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_41">
+        <From>
+          <StopPointRef>410000014014</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014015</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_42">
+        <From>
+          <StopPointRef>410000014015</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014201</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_43">
+        <From>
+          <StopPointRef>410000014201</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014202</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_44">
+        <From>
+          <StopPointRef>410000014202</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014203</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_45">
+        <From>
+          <StopPointRef>410000014203</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015063</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_46">
+        <From>
+          <StopPointRef>410000015063</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015064</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_47">
+        <From>
+          <StopPointRef>410000015064</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015065</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_48">
+        <From>
+          <StopPointRef>410000015065</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015306</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_49">
+        <From>
+          <StopPointRef>410000015306</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015307</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_50">
+        <From>
+          <StopPointRef>410000015307</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022031</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_51">
+        <From>
+          <StopPointRef>410000022031</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022103</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_52">
+        <From>
+          <StopPointRef>410000022103</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022104</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_53">
+        <From>
+          <StopPointRef>410000022104</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022105</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_54">
+        <From>
+          <StopPointRef>410000022105</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015030</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_55">
+        <From>
+          <StopPointRef>410000015030</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015031</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_0_56">
+        <From>
+          <StopPointRef>410000015031</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015201</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="RS_1">
+      <RouteLink id="RL_1_0">
+        <From>
+          <StopPointRef>410000015196</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015028</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_1">
+        <From>
+          <StopPointRef>410000015028</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022106</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_2">
+        <From>
+          <StopPointRef>410000022106</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022107</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_3">
+        <From>
+          <StopPointRef>410000022107</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022108</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_4">
+        <From>
+          <StopPointRef>410000022108</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022092</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_5">
+        <From>
+          <StopPointRef>410000022092</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000022058</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_6">
+        <From>
+          <StopPointRef>410000022058</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015009</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_7">
+        <From>
+          <StopPointRef>410000015009</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015010</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_8">
+        <From>
+          <StopPointRef>410000015010</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015304</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_9">
+        <From>
+          <StopPointRef>410000015304</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015305</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_10">
+        <From>
+          <StopPointRef>410000015305</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015070</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_11">
+        <From>
+          <StopPointRef>410000015070</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015071</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_12">
+        <From>
+          <StopPointRef>410000015071</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015072</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_13">
+        <From>
+          <StopPointRef>410000015072</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000015238</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_14">
+        <From>
+          <StopPointRef>410000015238</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014204</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_15">
+        <From>
+          <StopPointRef>410000014204</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014205</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_16">
+        <From>
+          <StopPointRef>410000014205</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014004</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_17">
+        <From>
+          <StopPointRef>410000014004</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014200</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_18">
+        <From>
+          <StopPointRef>410000014200</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014005</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_19">
+        <From>
+          <StopPointRef>410000014005</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014006</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_20">
+        <From>
+          <StopPointRef>410000014006</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014019</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_21">
+        <From>
+          <StopPointRef>410000014019</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014020</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_22">
+        <From>
+          <StopPointRef>410000014020</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014021</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_23">
+        <From>
+          <StopPointRef>410000014021</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014022</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_24">
+        <From>
+          <StopPointRef>410000014022</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014023</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_25">
+        <From>
+          <StopPointRef>410000014023</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014024</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_26">
+        <From>
+          <StopPointRef>410000014024</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014025</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_27">
+        <From>
+          <StopPointRef>410000014025</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014026</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_28">
+        <From>
+          <StopPointRef>410000014026</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014028</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_29">
+        <From>
+          <StopPointRef>410000014028</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014029</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_30">
+        <From>
+          <StopPointRef>410000014029</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014196</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_31">
+        <From>
+          <StopPointRef>410000014196</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000014197</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_32">
+        <From>
+          <StopPointRef>410000014197</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013036</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_33">
+        <From>
+          <StopPointRef>410000013036</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013037</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_34">
+        <From>
+          <StopPointRef>410000013037</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013038</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_35">
+        <From>
+          <StopPointRef>410000013038</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013039</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_36">
+        <From>
+          <StopPointRef>410000013039</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013058</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_37">
+        <From>
+          <StopPointRef>410000013058</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013059</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_38">
+        <From>
+          <StopPointRef>410000013059</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013060</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_39">
+        <From>
+          <StopPointRef>410000013060</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013121</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_40">
+        <From>
+          <StopPointRef>410000013121</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013122</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_41">
+        <From>
+          <StopPointRef>410000013122</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>4100013WINAS</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_42">
+        <From>
+          <StopPointRef>4100013WINAS</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013091</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_43">
+        <From>
+          <StopPointRef>410000013091</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013092</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_44">
+        <From>
+          <StopPointRef>410000013092</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013093</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_45">
+        <From>
+          <StopPointRef>410000013093</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013902</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_46">
+        <From>
+          <StopPointRef>410000013902</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>4100013BLABS</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_47">
+        <From>
+          <StopPointRef>4100013BLABS</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013006</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_48">
+        <From>
+          <StopPointRef>410000013006</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013007</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_49">
+        <From>
+          <StopPointRef>410000013007</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013008</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_50">
+        <From>
+          <StopPointRef>410000013008</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013009</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_51">
+        <From>
+          <StopPointRef>410000013009</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013010</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_52">
+        <From>
+          <StopPointRef>410000013010</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013011</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_53">
+        <From>
+          <StopPointRef>410000013011</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013012</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_54">
+        <From>
+          <StopPointRef>410000013012</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013013</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_55">
+        <From>
+          <StopPointRef>410000013013</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000013014</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_56">
+        <From>
+          <StopPointRef>410000013014</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012001</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_57">
+        <From>
+          <StopPointRef>410000012001</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012002</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_58">
+        <From>
+          <StopPointRef>410000012002</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012003</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_59">
+        <From>
+          <StopPointRef>410000012003</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012004</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="RL_1_60">
+        <From>
+          <StopPointRef>410000012004</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>410000012005</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="R_0">
+      <Description>Crawcrook E-QE Hosp-QE Avenue (15201)</Description>
+      <RouteSectionRef>RS_0</RouteSectionRef>
+    </Route>
+    <Route id="R_1">
+      <Description>QE Hosp-QE Avneue (15196)-Crawcrook Sw</Description>
+      <RouteSectionRef>RS_1</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_0">
+      <JourneyPatternTimingLink id="JPTL_0_0">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012021</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012022</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_0</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_1">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012022</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_1</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_2">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012024</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_2</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_3">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012024</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012025</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_3</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_4">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012025</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013015</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_4</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_5">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013015</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013016</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_5</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_6">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013016</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013017</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_6</RouteLinkRef>
+        <Direction />
+        <RunTime>PT02M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_7">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013017</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013018</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_7</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_8">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013018</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013019</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_8</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_9">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013019</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_9</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_10">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013021</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_10</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_11">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013021</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013022</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_11</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_12">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013022</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_12</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_13">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013BLAAS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_13</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_14">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013BLAAS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013087</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_14</RouteLinkRef>
+        <Direction />
+        <RunTime>PT02M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_15">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013087</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013088</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_15</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_16">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013088</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013089</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_16</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_17">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013089</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013WINBS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_17</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_18">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013WINBS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013120</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_18</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_19">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013120</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013069</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_19</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_20">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013069</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013070</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_20</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_21">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013070</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013071</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_21</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_22">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013071</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013072</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_22</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_23">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013072</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013042</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_23</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_24">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013042</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013043</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_24</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_25">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013043</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013044</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_25</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_26">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013044</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014059</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_26</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_27">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014059</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014198</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_27</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_28">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014198</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014199</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_28</RouteLinkRef>
+        <Direction />
+        <RunTime>PT02M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_29">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014199</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014034</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_29</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_30">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014034</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014035</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_30</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_31">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014035</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014036</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_31</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_32">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014036</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014037</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_32</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_33">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014037</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014038</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_33</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_34">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014038</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014039</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_34</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_35">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014039</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014040</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_35</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_36">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014040</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014041</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_36</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_37">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014041</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014042</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_37</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_38">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014042</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014043</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_38</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_39">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014043</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014044</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_39</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_40">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014044</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014014</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_40</RouteLinkRef>
+        <Direction />
+        <RunTime>PT02M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_41">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014014</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014015</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_41</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_42">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014015</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014201</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_42</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_43">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014201</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014202</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_43</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_44">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014202</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014203</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_44</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_45">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014203</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015063</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_45</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_46">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015063</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015064</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_46</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_47">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015064</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015065</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_47</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_48">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015065</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015306</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_48</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_49">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015306</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015307</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_49</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_50">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015307</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022031</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_50</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_51">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022031</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022103</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_51</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_52">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022103</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022104</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_52</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_53">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022104</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022105</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_53</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_54">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022105</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015030</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_54</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_55">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015030</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015031</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_55</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_0_56">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015031</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015201</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_0_56</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_1">
+      <JourneyPatternTimingLink id="JPTL_1_0">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015196</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015028</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_0</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_1">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015028</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022106</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_1</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_2">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022106</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022107</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_2</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_3">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022107</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022108</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_3</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_4">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022108</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022092</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_4</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_5">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022092</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022058</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_5</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_6">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000022058</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015009</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_6</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_7">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015009</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015010</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_7</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_8">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015010</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015304</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_8</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_9">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015304</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015305</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_9</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_10">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015305</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015070</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_10</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_11">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015070</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015071</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_11</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_12">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015071</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015072</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_12</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_13">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015072</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015238</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_13</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_14">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000015238</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014204</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_14</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_15">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014204</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014205</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_15</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_16">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014205</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014004</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_16</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_17">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014004</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014200</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_17</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_18">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014200</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014005</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_18</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_19">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014005</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014006</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_19</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_20">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014006</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014019</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_20</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_21">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014019</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_21</RouteLinkRef>
+        <Direction />
+        <RunTime>PT02M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_22">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014021</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_22</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_23">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014021</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014022</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_23</RouteLinkRef>
+        <Direction />
+        <RunTime>PT02M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_24">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014022</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_24</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_25">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014024</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_25</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_26">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014024</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014025</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_26</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_27">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014025</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014026</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_27</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_28">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014026</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014028</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_28</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_29">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014028</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014029</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_29</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_30">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014029</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014196</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_30</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_31">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014196</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014197</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_31</RouteLinkRef>
+        <Direction />
+        <RunTime>PT02M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_32">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000014197</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013036</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_32</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_33">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013036</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013037</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_33</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_34">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013037</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013038</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_34</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_35">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013038</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013039</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_35</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_36">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013039</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013058</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_36</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_37">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013058</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013059</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_37</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_38">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013059</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013060</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_38</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_39">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013060</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013121</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_39</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_40">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013121</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013122</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_40</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_41">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013122</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013WINAS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_41</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_42">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013WINAS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013091</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_42</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_43">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013091</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013092</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_43</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_44">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013092</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013093</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_44</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_45">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013093</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013902</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_45</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_46">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013902</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013BLABS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_46</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_47">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>4100013BLABS</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013006</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_47</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_48">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013006</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013007</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_48</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_49">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013007</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013008</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_49</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_50">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013008</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013009</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_50</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_51">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013009</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013010</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_51</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_52">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013010</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013011</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_52</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_53">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013011</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013012</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_53</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_54">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013012</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013013</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_54</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_55">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013013</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013014</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_55</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_56">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000013014</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012001</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_56</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_57">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012001</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012002</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_57</RouteLinkRef>
+        <Direction />
+        <RunTime>PT00M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_58">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012002</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012003</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_58</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_59">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012003</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012004</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_59</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPTL_1_60">
+        <From>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012004</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <WaitTime>PT00M</WaitTime>
+          <StopPointRef>410000012005</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>RL_1_60</RouteLinkRef>
+        <Direction />
+        <RunTime>PT01M</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="PB1954">
+      <NationalOperatorCode>GNET</NationalOperatorCode>
+      <OperatorCode>GNE</OperatorCode>
+      <OperatorShortName>GNE</OperatorShortName>
+      <OperatorNameOnLicence>Go North East</OperatorNameOnLicence>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>69B</ServiceCode>
+      <Lines>
+        <Line id="69B">
+          <LineName>69B</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2011-10-30</StartDate>
+        <EndDate>2029-12-31</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>PB1954</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <StandardService>
+        <Origin>9400ZZTYALS1</Origin>
+        <Destination>9400ZZTYLIN1</Destination>
+        <JourneyPattern id="JP_0">
+          <Direction />
+          <RouteRef>R_0</RouteRef>
+          <JourneyPatternSectionRefs>JPS_0</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JP_1">
+          <Direction />
+          <RouteRef>R_1</RouteRef>
+          <JourneyPatternSectionRefs>JPS_1</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+    <VehicleJourneys>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_0</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>07:57:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_1</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>07:57:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_2</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>07:57:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_3</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>07:57:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_4</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>07:57:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_5</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>12:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_6</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_0</JourneyPatternRef>
+            <DepartureTime>06:55:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_7</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_0</JourneyPatternRef>
+            <DepartureTime>06:55:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_8</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_0</JourneyPatternRef>
+            <DepartureTime>06:55:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_9</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_0</JourneyPatternRef>
+            <DepartureTime>06:55:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_10</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_0</JourneyPatternRef>
+            <DepartureTime>06:55:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <Saturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_11</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_0</JourneyPatternRef>
+            <DepartureTime>08:05:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_12</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>09:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_13</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>11:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_14</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>12:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_15</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>11:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_16</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>11:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_17</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>10:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_18</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>10:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_19</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>09:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_20</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>10:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_21</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>10:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_22</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>10:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_23</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>09:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_24</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>09:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_25</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>09:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_26</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>09:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_27</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>10:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_28</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>12:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_29</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>12:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_30</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>15:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_31</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>16:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_32</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>16:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_33</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>16:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_34</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>16:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_35</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>15:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_36</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>16:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <Saturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_37</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>17:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_38</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>17:07:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_39</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>17:07:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_40</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>17:07:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_41</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>17:07:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_42</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>16:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_43</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>15:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_44</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>12:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_45</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>15:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_46</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>12:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_47</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>13:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_48</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>13:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_49</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>13:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_50</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>13:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_51</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>13:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_52</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>15:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_53</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>13:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_54</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>14:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-04-01</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-06</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_55</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>14:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_56</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>14:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_57</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>14:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_58</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>14:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-03-29</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-04-01</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_59</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>15:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-29</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_60</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>14:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToFriday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_61</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>17:07:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-27</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-08-26</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_62</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>11:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-05-06</EndDate>
+                        </DateRange>
+                        <DateRange>
+                            <StartDate>2013-05-27</StartDate>
+                            <EndDate>2099-02-13</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_63</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>11:02:00</DepartureTime>
+        </VehicleJourney>
+        <VehicleJourney>
+            <OperatorRef>PB1954</OperatorRef>
+            <OperatingProfile>
+                <RegularDayType>
+                    <DaysOfWeek>
+                        <MondayToSaturday />
+                    </DaysOfWeek>
+                </RegularDayType>
+                <SpecialDaysOperation>
+                    <DaysOfNonOperation>
+                        <DateRange>
+                            <StartDate>2013-03-24</StartDate>
+                            <EndDate>2013-08-26</EndDate>
+                        </DateRange>
+                    </DaysOfNonOperation>
+                </SpecialDaysOperation>
+            </OperatingProfile>
+            <VehicleJourneyCode>VJC_64</VehicleJourneyCode>
+            <ServiceRef>64A</ServiceRef>
+            <LineRef>64A</LineRef>
+            <JourneyPatternRef>JP_1</JourneyPatternRef>
+            <DepartureTime>11:02:00</DepartureTime>
+        </VehicleJourney>
+    </VehicleJourneys>
+</TransXChange>
